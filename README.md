@@ -1,3 +1,6 @@
+## 📸 Dashboard Preview
+
+![CyberShield AI Dashboard](images/cybershield-dashboard.png)
 # CyberShield AI
 
 ## SOC Command Center - AI-Powered Network Threat Detection
