@@ -1,0 +1,38 @@
+{
+  "accuracy": 1.0,
+  "training_records": 1500,
+  "testing_records": 500,
+  "classes": [
+    "Brute Force",
+    "DoS",
+    "Normal",
+    "Port Scan"
+  ],
+  "classification_report": "              precision    recall  f1-score   support\n\n Brute Force       1.00      1.00      1.00        51\n         DoS       1.00      1.00      1.00        61\n      Normal       1.00      1.00      1.00       350\n   Port Scan       1.00      1.00      1.00        38\n\n    accuracy                           1.00       500\n   macro avg       1.00      1.00      1.00       500\nweighted avg       1.00      1.00      1.00       500\n",
+  "confusion_matrix": [
+    [
+      51,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      61,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      350,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      38
+    ]
+  ]
+}

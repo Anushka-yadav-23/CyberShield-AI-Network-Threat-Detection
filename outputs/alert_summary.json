@@ -1,0 +1,11 @@
+{
+  "total_records": 2000,
+  "predicted_categories": {
+    "Normal": 1400,
+    "DoS": 245,
+    "Brute Force": 205,
+    "Port Scan": 150
+  },
+  "predicted_suspicious_records": 600,
+  "note": "Synthetic demonstration. These are model predictions, not verified real-world security incidents."
+}
